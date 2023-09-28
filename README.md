@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I'm Aadarsh Verma pursuing BCA<br>🌱I'm Focused on becoming an SDE<br>⚡Exploring MERN & React Native Feild<br><br>
+🔭 I'm Aadarsh Verma pursuing BCA<br>🌱I'm Focused on becoming an SDE<br>⚡Exploring MEAN & React Native Field<br><br>
 
 
 ## 🌐 Socials:
